@@ -52,4 +52,4 @@ to a detailed page where full information is provided along with the ratings of 
 Language/Framework used: Flutter and Dart.
 
 -- YouTube Link : <br>
--- GitHub Link : https://github.com/sathviksaya/movie_app
+-- GitHub Link : https://github.com/sathviksaya/FlixList
